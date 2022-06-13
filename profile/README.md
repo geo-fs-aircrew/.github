@@ -3,7 +3,7 @@ if you have an idea that you want to do but need help, just folow the instructio
 
 website is coming soon
 
-We all fly frequently in geo fs. Our usernames are X5391Q an MrDareDevilDude
+**We all fly frequently in geo fs. Our usernames are _X5391Q_ an _MrDareDevilDude_**
 
 ***to join us:
 put a comment in the .github repository if you want to join. you must have modeling, animating, or programming experience. you must also have tampermonkey, geo-fs plugins, and geo-fs 3d buildings, all of the chrome web store for testing purposes.***
